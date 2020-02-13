@@ -1,0 +1,2 @@
+QLabel#notice[level = "error"] {font-size: 50px; color: red;}
+QLabel#notice[level = "warning"] {font-size: 50px; color: yellow;}
